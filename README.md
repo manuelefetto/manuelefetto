@@ -32,4 +32,4 @@ When I'm not coding or studying, you'll find me making pizzas and thinking about
 
 *Chat - I'm tired sir, can I please take a little rest generating this fancy Github description?*
 
-*Me - Of course not, go ahead and make me look like the best programmer in the world. Generate, generate more. *
+*Me - Of course not, go ahead and make me look like the best programmer in the world. Generate, generate more.*
