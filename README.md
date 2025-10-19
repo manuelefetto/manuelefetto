@@ -28,5 +28,8 @@ When I'm not coding or studying, you'll find me making pizzas and thinking about
 
 *"Code is like pizza dough – it takes practice, patience, and the right ingredients to get it just right."*
 
-*Chat - I'm tired sir, can I please take a little rest generating this fancy Github description?
-   Me - Of course not, go ahead and make me look like the best programmer in the world. Generate, generate more. *
+---
+
+*Chat - I'm tired sir, can I please take a little rest generating this fancy Github description?*
+
+*Me - Of course not, go ahead and make me look like the best programmer in the world. Generate, generate more. *
